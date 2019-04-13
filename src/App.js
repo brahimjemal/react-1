@@ -7,19 +7,25 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
+<img src="https://images.homedepot-static.com/productImages/f7263ace-3e04-461f-93ad-e57417e92f5a/svn/rubbermaid-commercial-products-plastic-trash-cans-fg9w2728gray-64_1000.jpg" />
+
+        <div>
+        <hr/>
+        <p className="look"> ahla </p>
+        <hr/>
+        </div>
+        <div>
+          <br />
+          <p className="take"> sallleeeeeeem </p>
+          <br />
+        </div>
+        <div>
+          
+
+        </div>
+        
         </header>
+
       </div>
     );
   }
